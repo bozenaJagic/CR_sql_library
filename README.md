@@ -19,6 +19,8 @@ And for those who love a good treasure hunt, we have a couple of files dedicated
 7. [Full Query - Shop](./Full_Query_Shop.md) - The whole shebang for Shop data.
 8. [Full Query - TrustPlatform](./Full_Query_TrustPlatform.md) - The full monty for TrustPlatform data.
 
+ffjlldfjdafa
+
 Feel free to explore, use, and contribute to these files. This library is a living, breathing document. We encourage everyone to add new queries, refine existing ones, and share their knowledge. 
 
 So, let's collaborate and make this a valuable resource for our team. :handshake:
